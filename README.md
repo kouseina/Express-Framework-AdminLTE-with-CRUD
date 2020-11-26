@@ -90,7 +90,7 @@ $ npm install
   Start the server:
 
 ```bash
-$ npm start
+$ nodemon
 ```
 
   View the website at: http://localhost:3000
